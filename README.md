@@ -1,6 +1,5 @@
 ### Hello I am a student for cybersecurity carrer 💀
-<h2> hola </h2>
-<p> gg <p/>
+
 <!--
 **D4rk61/D4rk61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
