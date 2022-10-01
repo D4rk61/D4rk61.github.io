@@ -1,4 +1,4 @@
-### Hello I am a student for cybersecurity carrer 💀
+### <i class="fa-brands fa-linux"></i> Hello I am a student for cybersecurity carrer 💀
 
 <!--
 **D4rk61/D4rk61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
