@@ -125,6 +125,80 @@ Por un lado alias para creacion de nuestro propios comandos y la segunda para sa
 ``` bash
     alias comando1="ls"
 ```
+<br>
+
+---
+<br>
+
+
+### Bash scripting
+Este es un lenguaje de programacion el cual nos ayudara para automatizar muchas tareas dentro de un sistema linux
+
+Aqui tratare de centrar mis pocos conocimientos en un pqueño programa
+``` bash
+
+#!/bin/bash
+#===============================================================================
+#
+#          FILE:  programa2.sh
+# 
+#         USAGE:  ./programa2.sh 
+# 
+#   DESCRIPTION:  Programa para demostrar mis conocimientos. A pequeña escala
+# 
+#       OPTIONS:  ---
+#  REQUIREMENTS:  ---
+#          BUGS:  ---
+#         NOTES:  ---
+#        AUTHOR:  Jose - Blackshark (), reynosojose2005@gmail.com
+#       COMPANY:  Evilcompany
+#       VERSION:  1.0
+#       CREATED:  03/10/22 02:44:43 CST
+#      REVISION:  ---
+#===============================================================================
+
+# --=[ Este Programa consistira en pedir una clave para actualizar un servidor y acceder a demas registros ]=--
+
+fail () {
+  fecha=$(date)
+  quien=$(whoami)
+    echo -e "\n
+    Contraseña incorrecta.. Se notificara que el usuario: $quien Intento ingresar al sistema en la fecha: $fecha"
+    sleep 2
+    exit
+}
+echo -e "\nNecesitas los permisos necesarios para ejecutar este script "
+
+safe=""
+
+read -s -p "Porfavor Escribe la contraseña: " safe
+if [ $safe == root ]; then
+  act () {
+    sudo pacman -Syu
+    sleep 1
+    echo -e "\nEl siguiente comando nos marcara si el sistema esta actualizado por completo"
+    echo -e "\n"
+    sudo pacman -Syy
+  }
+  act3=""
+
+  echo "Contraseña Correcta"
+  sleep 2
+  echo -e "\n"
+  read -p "Desea actualizar el servidor [y/n] " act3
+  if [ $act3 == "y" ]; then
+    act
+  else
+    echo "No se actualizara el sistema"
+  fi  
+
+else
+  fail
+fi
+
+```
+
+
 ## Certificaciones & logros
 
 ## Repositorios
