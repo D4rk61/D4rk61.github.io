@@ -198,13 +198,15 @@ fi
 
 ```
 
-#### Video
 <br>
 
+### Video de su funcionamiento:
+<br>
 
-<iframe width="600" height = "420"
-src="https://drive.google.com/file/d/11tgZuHbxlONPV9kDKpZKpJYKm9lYeFv0/view?usp=sharing">
-</iframe>
+> https://drive.google.com/file/d/11tgZuHbxlONPV9kDKpZKpJYKm9lYeFv0/view?usp=sharing
+
+
+## Certificaciones & logros
 
 ## Certificaciones & logros
 
