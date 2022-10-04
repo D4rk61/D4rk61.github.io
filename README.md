@@ -208,8 +208,6 @@ fi
 
 ## Certificaciones & logros
 
-## Certificaciones & logros
-
 ## Repositorios
 
 ## Conoceme 👀
