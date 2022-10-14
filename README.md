@@ -32,7 +32,7 @@ Soy un joven conocedor de sistemas, trajador, estudiante mayormente independient
 - Conecptos de seguridad informatica 
 - Conocimientos basicos en desarrolo web (html, markdown, css)
 - Conocimientos Basicos en redes (Funcionamineto de la red)
-
+- Instalacion y formateo de sistemas Operativos (windows y linux)
 <br>
 
 <!-- Maquinas explotadas, curssos, etc -->
