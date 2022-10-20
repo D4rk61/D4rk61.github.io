@@ -65,6 +65,9 @@ Soy un joven conocedor de sistemas, trajador, estudiante mayormente independient
 <!-- Certificaciones -->
 ## _Logros & Certificaciones_
 ---
-### - Intro to cybersecurity (CISCO)
-### - Cybersecurity Essentials (CISCO)
-### - Ciberseguridad en el Teletrabajo (GOOGLE)
+
+#### - [Intro to cybersecurity (CISCO)](https://drive.google.com/file/d/1I9ci4DIK4yRYefAnlz6f2gw7KkZi0icN/view?usp=sharing)
+#### - [Cybersecurity Essentials (CISCO)](https://drive.google.com/file/d/1PfCttC8lk45P5sI_6qVmx0QlVSjgehrd/view?usp=sharing)
+#### - [Ciberseguridad en el Teletrabajo (GOOGLE)]()
+#### - [Ethical Hacker, Red Team (Hacker Mentor)](https://drive.google.com/file/d/1nQaSnvcNpnPg4Hu6VICSbiRQBP6Okq0r/view?usp=sharing)
+#### - [Curso basico de Programacion (Platzi)](https://drive.google.com/file/d/1rFF54NApiSoX6A-KmZlrbJU3FAwL0Ph1/view?usp=sharing)
