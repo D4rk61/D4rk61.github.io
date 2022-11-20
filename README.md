@@ -1,5 +1,7 @@
 <h1 align="center">Jose Reynoso Valiente</h1>
 
+<br>
+
 - 📫 Contactame
 
 Emali: **reynosojose2005@gmail.com** 
