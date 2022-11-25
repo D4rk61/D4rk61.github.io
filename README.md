@@ -62,6 +62,8 @@ Cursando carrera en "bachillerato en computacion", estudiante independiente, asp
 * Obtencion de Beca por 1 año en platzi 
 * Participacion y obtencion del primer lugar a nivel bachiller en concurso de arduino a nivel nacional (Tecnikids)
 * Introduccion al backend (Platzi)
+* Introduccion a Sistemas Linux (Backtrack Academy)
+* Fundamentos en Seguridad Informatica (Bactrack Academy)
 
 <br>
 <br> 
